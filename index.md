@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the ekyll theme you have lec
 
 ### Support or C
 
-Having trouble with Pages? Checout ou [documentation](https://help.github.com/categories/github-pages-basics/)or [contact support](https://github.com/contact) sort
+Having trouble with Pages? Checout ou [documentation](https://help.github.com/categories/github-pages-basics/)or [contact support](https://github.com/contact) sor
