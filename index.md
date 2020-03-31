@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the ekyll theme you have lr [repository settings](https://github.com/LadenxxxxD/LadenxxxxD.github.io/settings). The name of this theme is savedn the Jl `_confyml` configuo
 
-### Suppo
+### Su
 
 Having trouble with Pages? Checout ou documentatiohttps://help.github.com/categories/github-phttps://github.com/co
 
