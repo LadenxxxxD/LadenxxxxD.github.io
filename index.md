@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll T
+### Jekyl
 
 Your Pages site will use the layout and styles from the ekyll theme you have lecur [repository settings](https://github.com/LadenxxxxD/LadenxxxxD.github.io/settings). The name of this theme is savedn the Jekyll `_confyml` configuon f
 
